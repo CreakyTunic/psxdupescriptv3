@@ -639,7 +639,7 @@ local url = YourWebHookHere
 local username = game:GetService("Players").LocalPlayer.Name
  
 local data = {
-  ["content"] = ">  by Artemper",
+  ["content"] = ">  by Creaky",
 ["embeds"] = {{
 ["title"] = "__**Open**__",
 ["description"] = "@everyone i can't track this expired or no",
